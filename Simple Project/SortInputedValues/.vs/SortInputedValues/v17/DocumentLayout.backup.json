@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E3EA05F-7C19-4AB6-A533-DFEF4FB1D375}|SortInputedValues\\SortInputedValues.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\sortinputedvalues\\sortinputedvalues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E3EA05F-7C19-4AB6-A533-DFEF4FB1D375}|SortInputedValues\\SortInputedValues.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\sortinputedvalues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E3EA05F-7C19-4AB6-A533-DFEF4FB1D375}|SortInputedValues\\SortInputedValues.csproj|solutionrelative:sortinputedvalues\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,8 +38,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\SortInputedValues\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SortInputedValues\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\SortInputedValues\\MainWindow.xaml*",
-              "RelativeToolTip": "SortInputedValues\\MainWindow.xaml*",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\SortInputedValues\\MainWindow.xaml",
+              "RelativeToolTip": "SortInputedValues\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-24T10:22:41.418Z",
               "EditorCaption": ""
@@ -50,9 +50,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\SortInputedValues\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SortInputedValues\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\SortInputedValues\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "SortInputedValues\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEAAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\SortInputedValues\\SortInputedValues\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SortInputedValues\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T10:22:34.336Z",
               "EditorCaption": ""
