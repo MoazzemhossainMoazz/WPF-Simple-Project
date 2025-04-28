@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property.csproj.AssemblyReference.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\MainWindow.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\App.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property_MarkupCompile.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property_MarkupCompile.lref
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\bin\Debug\Trigger Property.exe.config
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\bin\Debug\Trigger Property.exe
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\bin\Debug\Trigger Property.pdb
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\MainWindow.baml
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property.g.resources
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger_Property.Properties.Resources.resources
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property.csproj.GenerateResource.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property.exe
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Trigger Property\obj\Debug\Trigger Property.pdb

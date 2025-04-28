@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\UseListBox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F154844-E505-4C59-B303-F30E3CCBCDB4}|ListBox3\\ListBox3.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\UseListBox\\listbox3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{0F154844-E505-4C59-B303-F30E3CCBCDB4}|ListBox3\\ListBox3.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\uselistbox\\listbox3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0F154844-E505-4C59-B303-F30E3CCBCDB4}|ListBox3\\ListBox3.csproj|solutionrelative:listbox3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F154844-E505-4C59-B303-F30E3CCBCDB4}|ListBox3\\ListBox3.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\uselistbox\\listbox3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F154844-E505-4C59-B303-F30E3CCBCDB4}|ListBox3\\ListBox3.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\UseListBox\\listbox3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F154844-E505-4C59-B303-F30E3CCBCDB4}|ListBox3\\ListBox3.csproj|solutionrelative:listbox3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "ListBox3\\MainWindow.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T08:06:06.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T08:06:06.32Z"
             },
             {
               "$type": "Document",
