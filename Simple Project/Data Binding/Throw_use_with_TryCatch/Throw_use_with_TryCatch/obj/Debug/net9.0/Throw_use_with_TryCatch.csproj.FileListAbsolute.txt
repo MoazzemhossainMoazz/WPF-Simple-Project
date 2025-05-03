@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\bin\Debug\net9.0\Throw_use_with_TryCatch.exe
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\bin\Debug\net9.0\Throw_use_with_TryCatch.deps.json
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\bin\Debug\net9.0\Throw_use_with_TryCatch.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\bin\Debug\net9.0\Throw_use_with_TryCatch.dll
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\bin\Debug\net9.0\Throw_use_with_TryCatch.pdb
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.sourcelink.json
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.dll
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\refint\Throw_use_with_TryCatch.dll
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.pdb
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\Throw_use_with_TryCatch.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Throw_use_with_TryCatch\Throw_use_with_TryCatch\obj\Debug\net9.0\ref\Throw_use_with_TryCatch.dll

@@ -1,0 +1,69 @@
+﻿<Window x:Class="DemoCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="850" Width="500">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- CASIO Label -->
+        <TextBlock Text="CASIO" FontSize="20" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,5" />
+
+        <!-- Display -->
+        <TextBox x:Name="Display" Grid.Row="1" Height="50" 
+                 Background="LightGreen" FontSize="24"
+                 IsReadOnly="True" TextAlignment="Right" 
+                 VerticalContentAlignment="Center" Margin="0,0,0,10"/>
+
+        <!-- Top Buttons -->
+        <UniformGrid Grid.Row="2" Rows="2" Columns="5" Margin="0,0,0,10">
+            <Button Content="SET"/>
+            <Button Content="Vol"/>
+            <Button Content="DEL"/>
+            <Button Content="UP"/>
+            <Button Content="ON"/>
+            <Button Content="HOLD"/>
+            <Button Content="RING"/>
+            <Button Content="OUT"/>
+            <Button Content="DOWN"/>
+            <Button Content="UP"/>
+        </UniformGrid>
+
+        <!-- Calculator Buttons -->
+        <UniformGrid Grid.Row="3" Columns="4" Rows="5">
+            <Button Content="1" Background="#FFFBE6"/>
+            <Button Content="2" Background="#FFFBE6"/>
+            <Button Content="3" Background="#FFFBE6"/>
+            <Button Content="/" Background="#B2DAF7"/>
+
+            <Button Content="4" Background="#FFFBE6"/>
+            <Button Content="5" Background="#FFFBE6"/>
+            <Button Content="6" Background="#FFFBE6"/>
+            <Button Content="X" Background="#B2DAF7"/>
+
+            <Button Content="7" Background="#FFFBE6"/>
+            <Button Content="8" Background="#FFFBE6"/>
+            <Button Content="9" Background="#FFFBE6"/>
+            <Button Content="-" Background="#B2DAF7"/>
+
+            <Button Content="AC" Background="#FFB6B6"/>
+            <Button Content="0" Background="#FFFBE6"/>
+            <Button Content="%" Background="#FFFBE6"/>
+            <Button Content="+" Background="#B2DAF7"/>
+
+            <Button Content="C" Background="#FFB6B6"/>
+            <Button Content="00" Background="#FFFBE6"/>
+            <Button Content="." Background="#FFFBE6"/>
+            <Button Content="=" Background="#B2DAF7"/>
+        </UniformGrid>
+    </Grid>
+</Window>

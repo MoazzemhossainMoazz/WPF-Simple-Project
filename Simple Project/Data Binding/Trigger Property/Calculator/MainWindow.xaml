@@ -16,10 +16,7 @@
             FontSize="20"
             Background="LightGray"
         />
-           
-       
-            
-            
+
         </StackPanel>
 
         <StackPanel Margin="10">

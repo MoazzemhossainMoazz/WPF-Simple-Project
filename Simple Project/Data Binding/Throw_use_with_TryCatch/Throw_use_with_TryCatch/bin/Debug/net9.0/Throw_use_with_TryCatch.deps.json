@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Throw_use_with_TryCatch/1.0.0": {
+        "runtime": {
+          "Throw_use_with_TryCatch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Throw_use_with_TryCatch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
