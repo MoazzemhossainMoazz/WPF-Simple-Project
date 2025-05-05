@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\bin\Debug\net9.0\Try_Catch_Throw_2.exe
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\bin\Debug\net9.0\Try_Catch_Throw_2.deps.json
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\bin\Debug\net9.0\Try_Catch_Throw_2.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\bin\Debug\net9.0\Try_Catch_Throw_2.dll
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\bin\Debug\net9.0\Try_Catch_Throw_2.pdb
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.sourcelink.json
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.dll
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\refint\Try_Catch_Throw_2.dll
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.pdb
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\Try_Catch_Throw_2.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Try_Catch_Throw\Try_Catch_Throw_2\Try_Catch_Throw_2\obj\Debug\net9.0\ref\Try_Catch_Throw_2.dll
