@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "textBox", "textBox\textBox.csproj", "{E65D712B-0B4F-4C60-A8B1-755D10879221}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Button_and_Property", "Button_and_Property\Button_and_Property.csproj", "{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox", "CheckBox\CheckBox.csproj", "{239E60FF-927C-40F7-9071-D9698AF87CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E65D712B-0B4F-4C60-A8B1-755D10879221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65D712B-0B4F-4C60-A8B1-755D10879221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65D712B-0B4F-4C60-A8B1-755D10879221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65D712B-0B4F-4C60-A8B1-755D10879221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239E60FF-927C-40F7-9071-D9698AF87CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239E60FF-927C-40F7-9071-D9698AF87CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239E60FF-927C-40F7-9071-D9698AF87CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239E60FF-927C-40F7-9071-D9698AF87CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

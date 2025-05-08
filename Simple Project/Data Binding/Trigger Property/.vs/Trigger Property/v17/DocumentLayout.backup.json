@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22CCBC7E-71D4-429C-AE95-2F7252A5B41F}|Telephone Interface\\Telephone Interface.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\telephone interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{22CCBC7E-71D4-429C-AE95-2F7252A5B41F}|Telephone Interface\\Telephone Interface.csproj|solutionrelative:telephone interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A3F6F333-E911-4D62-85D9-27F53339CE06}|DemoCalculator\\DemoCalculator.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\democalculator\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A3F6F333-E911-4D62-85D9-27F53339CE06}|DemoCalculator\\DemoCalculator.csproj|solutionrelative:democalculator\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E01C88FC-600E-4680-BF58-4A4CE437F66C}|Calculator\\Calculator.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E01C88FC-600E-4680-BF58-4A4CE437F66C}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A3F6F333-E911-4D62-85D9-27F53339CE06}|DemoCalculator\\DemoCalculator.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\democalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3F6F333-E911-4D62-85D9-27F53339CE06}|DemoCalculator\\DemoCalculator.csproj|solutionrelative:democalculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22CCBC7E-71D4-429C-AE95-2F7252A5B41F}|Telephone Interface\\Telephone Interface.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\telephone interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22CCBC7E-71D4-429C-AE95-2F7252A5B41F}|Telephone Interface\\Telephone Interface.csproj|solutionrelative:telephone interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAC6CC3A-DF65-4FC8-8726-774F96A30395}|CalculatorInDotNet\\CalculatorInDotNet.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\calculatorindotnet\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FAC6CC3A-DF65-4FC8-8726-774F96A30395}|CalculatorInDotNet\\CalculatorInDotNet.csproj|solutionrelative:calculatorindotnet\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32DE7232-397E-4E18-9ECE-6DE4D9477F7B}|Responding_DataSource\\Responding_DataSource.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\responding_datasource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{32DE7232-397E-4E18-9ECE-6DE4D9477F7B}|Responding_DataSource\\Responding_DataSource.csproj|solutionrelative:responding_datasource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E01C88FC-600E-4680-BF58-4A4CE437F66C}|Calculator\\Calculator.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E01C88FC-600E-4680-BF58-4A4CE437F66C}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499950E2-31F4-444D-AC34-03DE51DEE4AD}|Trigger Property\\Trigger Property.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\trigger property\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{499950E2-31F4-444D-AC34-03DE51DEE4AD}|Trigger Property\\Trigger Property.csproj|solutionrelative:trigger property\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32DE7232-397E-4E18-9ECE-6DE4D9477F7B}|Responding_DataSource\\Responding_DataSource.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\responding_datasource\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32DE7232-397E-4E18-9ECE-6DE4D9477F7B}|Responding_DataSource\\Responding_DataSource.csproj|solutionrelative:responding_datasource\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{499950E2-31F4-444D-AC34-03DE51DEE4AD}|Trigger Property\\Trigger Property.csproj|D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\trigger property\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{499950E2-31F4-444D-AC34-03DE51DEE4AD}|Trigger Property\\Trigger Property.csproj|solutionrelative:trigger property\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAC6CC3A-DF65-4FC8-8726-774F96A30395}|CalculatorInDotNet\\CalculatorInDotNet.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\calculatorindotnet\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FAC6CC3A-DF65-4FC8-8726-774F96A30395}|CalculatorInDotNet\\CalculatorInDotNet.csproj|solutionrelative:calculatorindotnet\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,98 +43,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Telephone Interface\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Telephone Interface\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Telephone Interface\\MainWindow.xaml",
-              "RelativeToolTip": "Telephone Interface\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-29T05:58:56.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Telephone Interface\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Telephone Interface\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Telephone Interface\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Telephone Interface\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\DemoCalculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DemoCalculator\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\DemoCalculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DemoCalculator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAKUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T05:58:55.825Z",
+              "WhenOpened": "2025-05-07T12:21:43.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Calculator\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Calculator\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Calculator\\MainWindow.xaml",
-              "RelativeToolTip": "Calculator\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\DemoCalculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DemoCalculator\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\DemoCalculator\\MainWindow.xaml",
+              "RelativeToolTip": "DemoCalculator\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-27T15:25:00.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:20:42.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Calculator\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Calculator\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Calculator\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Calculator\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\CalculatorInDotNet\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CalculatorInDotNet\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\CalculatorInDotNet\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CalculatorInDotNet\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T15:25:00.192Z"
+              "WhenOpened": "2025-05-07T11:59:05.289Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Responding_DataSource\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Responding_DataSource\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Responding_DataSource\\MainWindow.xaml",
-              "RelativeToolTip": "Responding_DataSource\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\CalculatorInDotNet\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CalculatorInDotNet\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\CalculatorInDotNet\\MainWindow.xaml",
+              "RelativeToolTip": "CalculatorInDotNet\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-27T14:47:33.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Responding_DataSource\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Responding_DataSource\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Responding_DataSource\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Responding_DataSource\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:47:32.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Trigger Property\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Trigger Property\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Trigger Property\\MainWindow.xaml",
-              "RelativeToolTip": "Trigger Property\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-27T14:33:21.051Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Trigger Property\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Trigger Property\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Trigger Property\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Trigger Property\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAlwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T14:33:19.843Z"
+              "WhenOpened": "2025-05-07T11:56:52.826Z"
             }
           ]
         }

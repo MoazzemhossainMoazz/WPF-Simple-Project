@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239E60FF-927C-40F7-9071-D9698AF87CBD}|CheckBox\\CheckBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{239E60FF-927C-40F7-9071-D9698AF87CBD}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239E60FF-927C-40F7-9071-D9698AF87CBD}|CheckBox\\CheckBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239E60FF-927C-40F7-9071-D9698AF87CBD}|CheckBox\\CheckBox.csproj|solutionrelative:checkbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}|Button_and_Property\\Button_and_Property.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\button_and_property\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}|Button_and_Property\\Button_and_Property.csproj|solutionrelative:button_and_property\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}|Button_and_Property\\Button_and_Property.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\button_and_property\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4EEF9C-3F97-4A63-9AC0-DFC62832AA04}|Button_and_Property\\Button_and_Property.csproj|solutionrelative:button_and_property\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D712B-0B4F-4C60-A8B1-755D10879221}|textBox\\textBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\textbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65D712B-0B4F-4C60-A8B1-755D10879221}|textBox\\textBox.csproj|solutionrelative:textbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65D712B-0B4F-4C60-A8B1-755D10879221}|textBox\\textBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\textbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E65D712B-0B4F-4C60-A8B1-755D10879221}|textBox\\textBox.csproj|solutionrelative:textbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\CheckBox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CheckBox\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\CheckBox\\MainWindow.xaml",
+              "RelativeToolTip": "CheckBox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T11:13:51.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\CheckBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CheckBox\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\CheckBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CheckBox\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:13:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\Button_and_Property\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Button_and_Property\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\Button_and_Property\\MainWindow.xaml",
+              "RelativeToolTip": "Button_and_Property\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T10:55:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\Button_and_Property\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Button_and_Property\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\Button_and_Property\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Button_and_Property\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:55:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\textBox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "textBox\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\textBox\\MainWindow.xaml",
+              "RelativeToolTip": "textBox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T05:43:26.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\textBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "textBox\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\textBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "textBox\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:43:22.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

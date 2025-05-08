@@ -15,7 +15,7 @@
         </Grid.RowDefinitions>
 
         <!-- CASIO Label -->
-        <TextBlock Text="CASIO" FontSize="20" FontWeight="Bold" 
+        <TextBlock Text="KACIO" FontSize="20" FontWeight="Bold" 
                    HorizontalAlignment="Center" Margin="0,0,0,5" />
 
         <!-- Display -->
@@ -40,27 +40,27 @@
 
         <!-- Calculator Buttons -->
         <UniformGrid Grid.Row="3" Columns="4" Rows="5">
-            <Button Content="1" Background="#FFFBE6"/>
-            <Button Content="2" Background="#FFFBE6"/>
-            <Button Content="3" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="1" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="2" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="3" Background="#FFFBE6"/>
             <Button Content="/" Background="#B2DAF7"/>
 
-            <Button Content="4" Background="#FFFBE6"/>
-            <Button Content="5" Background="#FFFBE6"/>
-            <Button Content="6" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="4" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="5" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="6" Background="#FFFBE6"/>
             <Button Content="X" Background="#B2DAF7"/>
 
-            <Button Content="7" Background="#FFFBE6"/>
-            <Button Content="8" Background="#FFFBE6"/>
-            <Button Content="9" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="7" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="8" Background="#FFFBE6"/>
+            <Button Click="Button_Click" Content="9" Background="#FFFBE6"/>
             <Button Content="-" Background="#B2DAF7"/>
 
-            <Button Content="AC" Background="#FFB6B6"/>
+            <Button Click="ButtonACOnClick" Content="AC" Background="#FFB6B6"/>
             <Button Content="0" Background="#FFFBE6"/>
             <Button Content="%" Background="#FFFBE6"/>
-            <Button Content="+" Background="#B2DAF7"/>
+            <Button Click="PlusBtn_OnClick" Content="+" FontSize="40" Background="#B2DAF7"/>
 
-            <Button Content="C" Background="#FFB6B6"/>
+            <Button Click="ButtonCOnClick" Content="C" Background="#FFB6B6"/>
             <Button Content="00" Background="#FFFBE6"/>
             <Button Content="." Background="#FFFBE6"/>
             <Button Content="=" Background="#B2DAF7"/>

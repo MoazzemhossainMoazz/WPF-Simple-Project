@@ -1,0 +1,3 @@
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Telephone Interface\obj\Debug\Telephone Interface.csproj.AssemblyReference.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Telephone Interface\obj\Debug\App.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\Data Binding\Trigger Property\Telephone Interface\obj\Debug\Telephone Interface_MarkupCompile.cache
