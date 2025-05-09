@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("textBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+207525dddd7041034031bce256d863ba9762c8de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abfa50e484a703c9494ea6831f04b49ba02108ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("textBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("textBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
