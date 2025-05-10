@@ -17,11 +17,15 @@
         <TextBox Name="txtMail" />
     </StackPanel>-->
 
-    <DockPanel Margin="10">
+    <!--<DockPanel Margin="10">
         <TextBox SelectionChanged="TextBox_SelectionChanged" DockPanel.Dock="Top" />
         <TextBox Name="txtStatus" AcceptsReturn="True" TextWrapping="Wrap" IsReadOnly="True" />
 
-    </DockPanel>
+    </DockPanel>-->
+
+    <StackPanel>
+        <TextBox AcceptsReturn="True" AcceptsTab="True" MaxLength="20"  Text="Enter your name here" Width="200"/>
+    </StackPanel>
 
 
 </Window>

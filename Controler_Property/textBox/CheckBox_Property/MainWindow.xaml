@@ -1,0 +1,27 @@
+﻿<Window x:Class="CheckBox_Property.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox_Property"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <StackPanel>
+                <CheckBox Content="I agree to the terms and conditions" IsThreeState="True"/>
+
+                <CheckBox Content="Subscribe to newsletter"  IsChecked="{Binding PropertyName, Mode=TwoWay}"/>
+            </StackPanel>
+
+            <CheckBox>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="icon.png" Width="16" Height="16"/>
+                    <TextBlock Text="Enable feature" Margin="5,0,0,0"/>
+                </StackPanel>
+            </CheckBox>
+        </StackPanel>
+        
+
+    </Grid>
+</Window>

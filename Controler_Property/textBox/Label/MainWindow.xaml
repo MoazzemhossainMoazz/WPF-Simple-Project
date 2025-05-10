@@ -1,0 +1,21 @@
+﻿<Window x:Class="Label.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Label"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="_Name:" Target="{Binding ElementName=nameBox}"/>
+        <TextBox Name="nameBox" Width="200"/>
+        <Label Content="Email Address: " ToolTip="Enter your active email address."/>
+
+        <Image Source="info.png" Width="26"/>
+        <StackPanel Orientation="Horizontal">
+            <Image Source="info.png" Width="16"/>
+            <TextBlock Text="InfoLabel" Margin="5, 0, 0, 0"/>
+        </StackPanel>
+       
+    </StackPanel>
+</Window>
