@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}|TootTip\\TootTip.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\toottip\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}|TootTip\\TootTip.csproj|solutionrelative:toottip\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}|TootTip\\TootTip.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\toottip\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}|TootTip\\TootTip.csproj|solutionrelative:toottip\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{618589D1-8C47-48B3-B1D6-DDB8D052B918}|ImageControl\\ImageControl.csproj|d:\\technoart\\my work\\for learn\\wpf\\controler_property\\textbox\\imagecontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{618589D1-8C47-48B3-B1D6-DDB8D052B918}|ImageControl\\ImageControl.csproj|solutionrelative:imagecontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -68,6 +76,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\TootTip\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TootTip\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\TootTip\\MainWindow.xaml",
+              "RelativeToolTip": "TootTip\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T08:40:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\TootTip\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TootTip\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\TootTip\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TootTip\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:40:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\ImageControl\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ImageControl\\MainWindow.xaml",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\ImageControl\\MainWindow.xaml",
@@ -78,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\ImageControl\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ImageControl\\MainWindow.xaml.cs",
@@ -86,24 +119,22 @@
               "RelativeToolTip": "ImageControl\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T07:23:28.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T07:23:28.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\PasswordBox\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PasswordBox\\MainWindow.xaml",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\PasswordBox\\MainWindow.xaml",
               "RelativeToolTip": "PasswordBox\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T06:52:16.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T06:52:16.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\PasswordBox\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PasswordBox\\MainWindow.xaml.cs",
@@ -111,24 +142,22 @@
               "RelativeToolTip": "PasswordBox\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T06:52:15.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T06:52:15.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\RadioButton\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RadioButton\\MainWindow.xaml",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\RadioButton\\MainWindow.xaml",
               "RelativeToolTip": "RadioButton\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-10T16:45:14.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T16:45:14.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\RadioButton\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "RadioButton\\MainWindow.xaml.cs",
@@ -140,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\CheckBox_Property\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CheckBox_Property\\MainWindow.xaml",
@@ -151,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\CheckBox_Property\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CheckBox_Property\\MainWindow.xaml.cs",
@@ -163,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\textBox\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "textBox\\AssemblyInfo.cs",
@@ -175,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Controler_Property\\textBox\\textBox\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "textBox\\MainWindow.xaml.cs",

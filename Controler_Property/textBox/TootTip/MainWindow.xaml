@@ -1,0 +1,34 @@
+﻿<Window x:Class="TootTip.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TootTip"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Content="Refresh"
+        ToolTip="Refresh the data" Margin="10" Width="200">
+            <ToolTipService.InitialShowDelay>1000</ToolTipService.InitialShowDelay>
+            <ToolTipService.ShowDuration>5000</ToolTipService.ShowDuration>
+            <ToolTipService.Placement>Right</ToolTipService.Placement>
+            
+        </Button>
+
+        <Button Content="Info" Width="200" Margin="10">
+            <Button.ToolTip>
+                <StackPanel>
+                    <TextBlock Text="User Guide"/>
+                    <TextBlock Text="Click to openthe help page." FontSize="10"/>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+
+
+        <Button Content="Details" Width="200" Margin="10"
+                ToolTip="More details here"
+                ToolTipService.Placement="Right"
+                ToolTipService.VerticalOffset="10"/>
+
+    </StackPanel>
+</Window>

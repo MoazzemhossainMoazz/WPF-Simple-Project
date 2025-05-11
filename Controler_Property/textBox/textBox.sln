@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordBox", "PasswordBox\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControl", "ImageControl\ImageControl.csproj", "{618589D1-8C47-48B3-B1D6-DDB8D052B918}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TootTip", "TootTip\TootTip.csproj", "{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EBB582-B7C7-4D34-8FAF-B8DE1853351A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
