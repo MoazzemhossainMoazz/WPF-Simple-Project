@@ -1,0 +1,18 @@
+﻿<Window x:Class="ImageControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ImageControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Image Source="https://wpf-tutorial.com/Images/ArticleImages/1/basic-controls/image_control_basic_url.png" Width="200" Height="200" Stretch="fill" HorizontalAlignment="Center" VerticalAlignment="Top" Opacity="0.5" ToolTip="This a faced image"/>
+
+        <Image Source="https://wpf-tutorial.com/Images/ArticleImages/1/basic-controls/image_control_code_behind.png" Width="200" Height="200">
+            <Image.Clip>
+                <EllipseGeometry RadiusX="100" RadiusY="100" Center="100, 100"/>
+            </Image.Clip>
+        </Image>
+    </StackPanel>
+</Window>

@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBox_Property", "CheckB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButton", "RadioButton\RadioButton.csproj", "{7F38FE53-4189-4D2A-8D77-552EDF086C62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordBox", "PasswordBox\PasswordBox.csproj", "{66AD977D-48CE-482C-AAB2-843974BE804F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageControl", "ImageControl\ImageControl.csproj", "{618589D1-8C47-48B3-B1D6-DDB8D052B918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{7F38FE53-4189-4D2A-8D77-552EDF086C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F38FE53-4189-4D2A-8D77-552EDF086C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F38FE53-4189-4D2A-8D77-552EDF086C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AD977D-48CE-482C-AAB2-843974BE804F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AD977D-48CE-482C-AAB2-843974BE804F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AD977D-48CE-482C-AAB2-843974BE804F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AD977D-48CE-482C-AAB2-843974BE804F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618589D1-8C47-48B3-B1D6-DDB8D052B918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
