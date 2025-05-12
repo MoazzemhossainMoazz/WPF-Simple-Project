@@ -25,7 +25,7 @@ namespace DemoCalculator
         private int? input = null;
         private bool initial = true;
 
-        private Dictionary<string, string> operators = new ();
+       // private Dictionary<string, string> operators = new ();
         
 
 

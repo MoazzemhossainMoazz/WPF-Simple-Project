@@ -22,8 +22,7 @@ namespace CalculatorInDotNet
         private bool initial = true;
 
         private Dictionary<string, string> _CalculatorOperators = new Dictionary<string, string>();
-        _CalculatorOperators.Add
-
+        //_CalculatorOperators.Add
 
 
         public MainWindow()

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Sum2Values.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sum2Values"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Name="lblValue1" Content="Value - 1 :" Width="100" HorizontalContentAlignment="Right" Margin="5" />
+                <TextBox Name="txtValue1" Width="100" Margin="5" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Name="lblValue2" Content="Value - 2 :" Width="100" HorizontalContentAlignment="Right" Margin="5" />
+                <TextBox Name="txtValue2" Width="100" Margin="5" />
+            </StackPanel >
+            <StackPanel Orientation="Horizontal">
+                <Label Name="lblValue3" Content="Value - 3 :" Width="100" HorizontalContentAlignment="Right" Margin="5" />
+                <TextBox Name="txtValue3" Width="100" Margin="5" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button x:Name="btnCalculate" Content="Calculate Sum" Width="100" Click="btnCalculate_Click" Margin="5" />
+                <TextBlock Name="txtResult" Margin="5" Width="100" FontWeight="Bold" Background="Azure"/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Left">
+                <Button x:Name="btn1" Content="Show Window - 1" Width="100" Click="btn1_Click"  Margin="5" Background="Red"/>
+                <Button x:Name="btn2" Content="Show Window - 2" Width="100" Click="btn2_Click"  Margin="5" Background="Green"/>
+                <Button x:Name="btn3" Content="Show Window - 3" Width="100" Click="btn3_Click"  Margin="5" Background="Yellow"/>
+                <Button x:Name="btn4" Content="Show Window - 4" Width="100" Click="btn4_Click"  Margin="5" Background="Blue"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
