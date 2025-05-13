@@ -23,5 +23,14 @@ namespace Sum2Values
         {
             InitializeComponent();
         }
+
+        private void SumValues(object sender, RoutedEventArgs e)
+        {
+            double val1 = double.Parse(txtVal1.Text);
+            double val2 = double.Parse(txtVal2.Text);
+            double resultSum = val1 + val2;
+            txtResult.Text = resultSum.ToString();
+
+        }
     }
 }

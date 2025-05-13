@@ -48,6 +48,7 @@ namespace Sum2Values
         {
             var winabc = new Window1();
             winabc.Show();
+
         }
 
         private void btn2_Click(object sender, RoutedEventArgs e)

@@ -1,0 +1,4 @@
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\UseListBox\AddInputedValues\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\UseListBox\AddInputedValues\obj\Debug\net9.0-windows\App.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\UseListBox\AddInputedValues\obj\Debug\net9.0-windows\AddInputedValues_MarkupCompile.cache
+D:\TechnoArt\My Work\For Learn\WPF\Simple Project\UseListBox\AddInputedValues\obj\Debug\net9.0-windows\AddInputedValues_MarkupCompile.lref

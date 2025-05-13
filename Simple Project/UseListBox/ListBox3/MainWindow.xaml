@@ -117,12 +117,16 @@ Width="40"/>
             </StackPanel>
 
             <ListBox
-                x:Name="outputBox"
+                x:Name="lstbOutputBox"
                 Height="280"
                 Width="100"
                 FontSize="20"
                 Background="LightGoldenrodYellow"
             />
+
+            
+            <Button Content="Sum All" Width="100" Margin="20" Background="LightGreen" FontSize="20" Height="40" Click="btnSum"></Button>
+            <TextBlock Name="txtbSumAll" Text="" Width="100" Background="LightBlue" FontSize="20" Height="40" TextAlignment="Center"> </TextBlock>
         </StackPanel>
     </StackPanel>
 

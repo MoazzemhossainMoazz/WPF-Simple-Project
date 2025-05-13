@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:Sum2Values"
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800" Background="Red">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Num-1"></Label>
+            <TextBox Name="txtVal1" Width="100"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Num-2"></Label>
+            <TextBox Name="txtVal2" Width="100"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Sum values" Width="100" Click="SumValues"></Button>
+            <TextBlock Name="txtResult" Text="" Margin="10"></TextBlock>
+        </StackPanel>
+    </StackPanel>
 </Window>

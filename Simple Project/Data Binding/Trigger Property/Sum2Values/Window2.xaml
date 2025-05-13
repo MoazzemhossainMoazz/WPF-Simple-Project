@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:Sum2Values"
         mc:Ignorable="d"
         Title="Window2" Height="450" Width="800">
-    <Grid Background="Green">
+    <StackPanel Margin="20" HorizontalAlignment="Center" Background="Green">
+
+        <TextBlock x:Name="ResultTextBlock" Text="" FontWeight="Bold" FontSize="16" Margin="5" Width="100" Background="LightBlue"/>
+        <StackPanel Orientation="Horizontal" Margin="0,10">
+            <Button Content="10" Width="120" Margin="5" Click="Button1_Click"/>
+            <Button Content="20" Width="120" Margin="5" Click="Button2_Click"/>
+        </StackPanel>
+
+        <!--<TextBlock x:Name="ValueTextBlock1" Text="Value 1: " FontSize="14" Margin="5"/>-->
+        <!--<TextBlock x:Name="ValueTextBlock2" Text="Value 2: " FontSize="14" Margin="5"/>-->
+        <Button Content="Show Result" Margin="5" Click="ResultButton_Click"/>
         
-    </Grid>
+
+    </StackPanel>
 </Window>

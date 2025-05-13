@@ -19,9 +19,29 @@ namespace Sum2Values
     /// </summary>
     public partial class Window2 : Window
     {
+        private int value1 = 0;
+        private int value2 = 0;
         public Window2()
         {
             InitializeComponent();
+        }
+
+        private void Button1_Click(object sender, RoutedEventArgs e)
+        {
+            value1 = 10;
+            ResultTextBlock.Text = $"{value1}";
+        }
+
+        private void Button2_Click(object sender, RoutedEventArgs e)
+        {
+            value2 = 20;
+            ResultTextBlock.Text = $"{value2}";
+        }
+
+        private void ResultButton_Click(object sender, RoutedEventArgs e)
+        {
+            int result = value1 + value2;
+            ResultTextBlock.Text = result.ToString();
         }
     }
 }

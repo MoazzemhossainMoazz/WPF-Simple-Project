@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -25,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|d:\\technoart\\my work\\for learn\\wpf\\simple project\\data binding\\trigger property\\sum2values\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB54F337-5CAE-4681-AA42-248DEDD208CB}|Sum2Values\\Sum2Values.csproj|solutionrelative:sum2values\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,31 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Window4.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window4.xaml",
-              "RelativeDocumentMoniker": "Sum2Values\\Window4.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window4.xaml",
-              "RelativeToolTip": "Sum2Values\\Window4.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T02:17:25.264Z",
+              "DocumentIndex": 0,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "Sum2Values\\Window2.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window2.xaml.cs*",
+              "RelativeToolTip": "Sum2Values\\Window2.xaml.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:03:58.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Window3.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window3.xaml",
-              "RelativeDocumentMoniker": "Sum2Values\\Window3.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window3.xaml",
-              "RelativeToolTip": "Sum2Values\\Window3.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-12T02:17:21.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Window2.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window2.xaml",
               "RelativeDocumentMoniker": "Sum2Values\\Window2.xaml",
@@ -86,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Window1.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\Window1.xaml",
               "RelativeDocumentMoniker": "Sum2Values\\Window1.xaml",
@@ -98,20 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Sum2Values\\MainWindow.xaml.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\MainWindow.xaml.cs",
               "RelativeToolTip": "Sum2Values\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwCoAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T15:47:09.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\Simple Project\\Data Binding\\Trigger Property\\Sum2Values\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Sum2Values\\MainWindow.xaml",

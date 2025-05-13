@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultipleWindowShow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e364c27ccea3c863fd528453e163151137c5f9a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+627b32f7e0713d8c9fcd3471a62f92c8ec456f33")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultipleWindowShow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultipleWindowShow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
