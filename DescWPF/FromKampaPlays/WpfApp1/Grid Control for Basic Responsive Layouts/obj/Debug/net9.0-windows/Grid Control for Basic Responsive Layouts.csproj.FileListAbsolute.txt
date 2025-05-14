@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\bin\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.exe
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\bin\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.deps.json
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\bin\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\bin\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.dll
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\bin\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.pdb
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\App.g.cs
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts_MarkupCompile.cache
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts_MarkupCompile.lref
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.g.resources
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.sourcelink.json
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.dll
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\refint\Grid Control for Basic Responsive Layouts.dll
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.pdb
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\Grid Control for Basic Responsive Layouts.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\WPF\DescWPF\FromKampaPlays\WpfApp1\Grid Control for Basic Responsive Layouts\obj\Debug\net9.0-windows\ref\Grid Control for Basic Responsive Layouts.dll

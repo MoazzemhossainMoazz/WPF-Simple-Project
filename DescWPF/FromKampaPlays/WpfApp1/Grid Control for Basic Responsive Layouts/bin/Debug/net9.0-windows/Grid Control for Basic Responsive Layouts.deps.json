@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Grid Control for Basic Responsive Layouts/1.0.0": {
+        "runtime": {
+          "Grid Control for Basic Responsive Layouts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grid Control for Basic Responsive Layouts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
