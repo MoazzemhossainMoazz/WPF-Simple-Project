@@ -6,8 +6,9 @@
         xmlns:local="clr-namespace:Grid_Control_for_Basic_Responsive_Layouts"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    
+    <!--Grid Control for Basic Responsive Layout-->
     <!--<Grid>
-
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition/>
@@ -70,6 +71,6 @@
             <Rectangle Grid.Column="2" Fill="Yellow"/>
         </Grid>
         
-        <Rectangle Grid.Row="2" Fill="yellow"/>
+        <Rectangle Grid.Row="2" Fill="Red"/>
     </Grid>
 </Window>

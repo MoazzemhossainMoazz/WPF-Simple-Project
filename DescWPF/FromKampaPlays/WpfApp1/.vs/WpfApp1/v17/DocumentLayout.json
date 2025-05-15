@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85F2E07A-57A3-469B-AB87-BFB26F1FD300}|Grid Control for Basic Responsive Layouts\\Grid Control for Basic Responsive Layouts.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\wpfapp1\\grid control for basic responsive layouts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{85F2E07A-57A3-469B-AB87-BFB26F1FD300}|Grid Control for Basic Responsive Layouts\\Grid Control for Basic Responsive Layouts.csproj|solutionrelative:grid control for basic responsive layouts\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D48BB2F0-1A43-4147-8A0B-37CBAF18753E}|CustomUserControl\\CustomUserControl.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\wpfapp1\\customusercontrol\\view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D48BB2F0-1A43-4147-8A0B-37CBAF18753E}|CustomUserControl\\CustomUserControl.csproj|solutionrelative:customusercontrol\\view\\usercontrols\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85F2E07A-57A3-469B-AB87-BFB26F1FD300}|Grid Control for Basic Responsive Layouts\\Grid Control for Basic Responsive Layouts.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\wpfapp1\\grid control for basic responsive layouts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85F2E07A-57A3-469B-AB87-BFB26F1FD300}|Grid Control for Basic Responsive Layouts\\Grid Control for Basic Responsive Layouts.csproj|solutionrelative:grid control for basic responsive layouts\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10894CCB-7D30-4798-8E1F-6356172DA6C2}|WpfApp1\\WpfApp1.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10894CCB-7D30-4798-8E1F-6356172DA6C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10894CCB-7D30-4798-8E1F-6356172DA6C2}|WpfApp1\\WpfApp1.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{10894CCB-7D30-4798-8E1F-6356172DA6C2}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D48BB2F0-1A43-4147-8A0B-37CBAF18753E}|CustomUserControl\\CustomUserControl.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\wpfapp1\\customusercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D48BB2F0-1A43-4147-8A0B-37CBAF18753E}|CustomUserControl\\CustomUserControl.csproj|solutionrelative:customusercontrol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,51 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\Grid Control for Basic Responsive Layouts\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Grid Control for Basic Responsive Layouts\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\Grid Control for Basic Responsive Layouts\\MainWindow.xaml",
-              "RelativeToolTip": "Grid Control for Basic Responsive Layouts\\MainWindow.xaml",
+              "Title": "MenuBar.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\CustomUserControl\\View\\UserControls\\MenuBar.xaml",
+              "RelativeDocumentMoniker": "CustomUserControl\\View\\UserControls\\MenuBar.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\CustomUserControl\\View\\UserControls\\MenuBar.xaml",
+              "RelativeToolTip": "CustomUserControl\\View\\UserControls\\MenuBar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-14T15:31:57.832Z",
+              "WhenOpened": "2025-05-15T06:01:46.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\Grid Control for Basic Responsive Layouts\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Grid Control for Basic Responsive Layouts\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\Grid Control for Basic Responsive Layouts\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Grid Control for Basic Responsive Layouts\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T15:31:57.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T14:11:38.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\WpfApp1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\WpfApp1\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\CustomUserControl\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CustomUserControl\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\WpfApp1\\CustomUserControl\\MainWindow.xaml",
+              "RelativeToolTip": "CustomUserControl\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-14T14:11:42.675Z",
+              "WhenOpened": "2025-05-14T16:27:23.189Z",
               "EditorCaption": ""
             }
           ]
