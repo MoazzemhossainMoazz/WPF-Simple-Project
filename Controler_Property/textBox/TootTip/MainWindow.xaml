@@ -30,5 +30,10 @@
                 ToolTipService.Placement="Right"
                 ToolTipService.VerticalOffset="10"/>
 
+        <Button Content="Edit" Width="200" Margin="10"
+        ToolTip="More details here"
+        ToolTipService.Placement="Right"
+        ToolTipService.VerticalOffset="10"/>
+
     </StackPanel>
 </Window>

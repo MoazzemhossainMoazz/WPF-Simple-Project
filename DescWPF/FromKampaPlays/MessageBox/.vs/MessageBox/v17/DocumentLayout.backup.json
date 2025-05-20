@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{104812B0-BC7C-49E8-9FE9-1C6B95CCD395}|..\\messageBok\\WpfApp1\\WpfApp1.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\messagebok\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\messagebox\\messagebox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|solutionrelative:messagebox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\messagebox\\messagebox\\messagebox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|solutionrelative:messagebox\\messagebox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\messagebox\\messagebox\\messagebox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|solutionrelative:messagebox\\messagebox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5C2739A-6D27-4E66-BD9E-E044A7717BDE}|MessageBox\\MessageBox.csproj|d:\\technoart\\my work\\for learn\\wpf\\descwpf\\fromkampaplays\\messagebox\\messagebox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -18,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,25 +45,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\messageBok\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\messageBok\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\messageBok\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "..\\messageBok\\WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-17T13:56:19.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageBox",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MessageBox.csproj",
+              "RelativeDocumentMoniker": "MessageBox\\MessageBox.csproj",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MessageBox.csproj",
+              "RelativeToolTip": "MessageBox\\MessageBox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T13:53:32.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageBox",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MessageBox.csproj",
+              "RelativeDocumentMoniker": "MessageBox\\MessageBox.csproj",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MessageBox.csproj",
+              "RelativeToolTip": "MessageBox\\MessageBox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T13:52:18.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MessageBox\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MainWindow.xaml",
-              "RelativeToolTip": "MessageBox\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MainWindow.xaml*",
+              "RelativeToolTip": "MessageBox\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-17T13:24:20.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MessageBox\\MainWindow.xaml.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\WPF\\DescWPF\\FromKampaPlays\\MessageBox\\MessageBox\\MainWindow.xaml.cs*",
               "RelativeToolTip": "MessageBox\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T13:24:16.753Z",
               "EditorCaption": ""
